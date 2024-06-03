@@ -28,3 +28,5 @@ Suppose you the following points:
 A tetrahedron formed by the points with indices 0, 3, 4, 6 is the only valid tetrahedron in this example; because 22 + 14 + 24 + 40 = 100
 
 The output is a list of the zero-based indices of these four points in ascending order.
+
+Note: Efforts were also made to better manage large datasets
